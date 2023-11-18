@@ -1,0 +1,6 @@
+/*每个人的卡牌和名字
+@自己写出来真的感觉成就感满满，这种感觉真的太棒了
+@shuffle(int *card) 这是洗牌函数，主要运用了伪随机数，也是这个程序的灵魂
+@deals(int *card, int *card1, int *card2, int *card3) 这是发牌函数，主要是将card@里面的数字一个一个分配给三个人
+@show(int *card, char *name) 这是显示程序，传进去每个人的卡牌和名字
+*/
